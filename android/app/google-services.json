@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421982650316",
+    "project_id": "notification-d3d23",
+    "storage_bucket": "notification-d3d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421982650316:android:b199b9ee780849ccf82769",
+        "android_client_info": {
+          "package_name": "com.firebase_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421982650316-m7csjea5oftl6l5hg9si5a20ct8uqoqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-aMcx1NaIHREck1zf6xu_mOGf7Nv0o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421982650316-m7csjea5oftl6l5hg9si5a20ct8uqoqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
